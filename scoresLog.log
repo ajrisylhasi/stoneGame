@@ -1,0 +1,114 @@
+15:22:22 [JavaFX Application Thread] INFO  gameLogger - initializing the board
+15:22:22 [JavaFX Application Thread] INFO  gameLogger - Finished game initialization
+15:22:22 [JavaFX Application Thread] INFO  gameLogger - Game has started
+15:22:24 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,0)
+
+15:22:25 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,2)
+
+15:22:26 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,0)
+
+15:22:28 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,1)
+
+15:22:29 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:22:30 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,2)
+
+15:22:30 [JavaFX Application Thread] INFO  gameLogger - Test 1 has won the game
+15:22:33 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,0)
+
+15:22:33 [JavaFX Application Thread] INFO  gameLogger - Ajri Sylhasi has won the game
+15:22:35 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,2)
+
+15:22:35 [JavaFX Application Thread] INFO  gameLogger - Test 1 has won the game
+15:22:38 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,2)
+
+15:22:38 [JavaFX Application Thread] INFO  gameLogger - Ajri Sylhasi has won the game
+15:22:39 [JavaFX Application Thread] WARN  gameLogger - Game is resetting
+15:22:39 [JavaFX Application Thread] INFO  gameLogger - initializing the board
+15:22:39 [JavaFX Application Thread] INFO  gameLogger - Finished game initialization
+15:22:39 [JavaFX Application Thread] INFO  gameLogger - Game has started
+15:22:43 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,0)
+
+15:22:45 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:22:46 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,2)
+
+15:22:46 [JavaFX Application Thread] INFO  gameLogger - Ajri Sylhasi has won the game
+15:22:52 [JavaFX Application Thread] WARN  gameLogger - Game is resetting
+15:22:52 [JavaFX Application Thread] INFO  gameLogger - initializing the board
+15:22:52 [JavaFX Application Thread] INFO  gameLogger - Finished game initialization
+15:22:52 [JavaFX Application Thread] INFO  gameLogger - Game has started
+15:22:53 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,1)
+
+15:22:54 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,1)
+
+15:22:55 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:22:56 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,1)
+
+15:22:57 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:22:59 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,1)
+
+15:22:59 [JavaFX Application Thread] INFO  gameLogger - Test 1 has won the game
+15:23:04 [JavaFX Application Thread] WARN  gameLogger - Game is resetting
+15:23:04 [JavaFX Application Thread] INFO  gameLogger - initializing the board
+15:23:04 [JavaFX Application Thread] INFO  gameLogger - Finished game initialization
+15:23:04 [JavaFX Application Thread] INFO  gameLogger - Game has started
+15:23:05 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,2)
+
+15:23:06 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,2)
+
+15:23:06 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,2)
+
+15:23:07 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:23:08 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:23:08 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:23:09 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,0)
+
+15:23:10 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,0)
+
+15:23:10 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,0)
+
+15:23:10 [JavaFX Application Thread] INFO  gameLogger - Ajri Sylhasi has won the game
+15:23:12 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,2)
+
+15:23:12 [JavaFX Application Thread] INFO  gameLogger - Test 1 has won the game
+15:23:15 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,2)
+
+15:23:15 [JavaFX Application Thread] INFO  gameLogger - Ajri Sylhasi has won the game
+15:23:15 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,0)
+
+15:23:15 [JavaFX Application Thread] INFO  gameLogger - Test 1 has won the game
+15:23:17 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,0)
+
+15:23:17 [JavaFX Application Thread] INFO  gameLogger - Ajri Sylhasi has won the game
+15:23:17 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,1)
+
+15:23:17 [JavaFX Application Thread] INFO  gameLogger - Test 1 has won the game
+15:23:18 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,1)
+
+15:23:18 [JavaFX Application Thread] INFO  gameLogger - Ajri Sylhasi has won the game
+15:23:20 [JavaFX Application Thread] WARN  gameLogger - Game is resetting
+15:23:20 [JavaFX Application Thread] INFO  gameLogger - initializing the board
+15:23:20 [JavaFX Application Thread] INFO  gameLogger - Finished game initialization
+15:23:20 [JavaFX Application Thread] INFO  gameLogger - Game has started
+15:23:56 [JavaFX Application Thread] INFO  gameLogger - initializing the board
+15:23:56 [JavaFX Application Thread] INFO  gameLogger - Finished game initialization
+15:23:56 [JavaFX Application Thread] INFO  gameLogger - Game has started
+15:23:58 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (0,2)
+
+15:23:59 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,2)
+
+15:23:59 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:24:00 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,1)
+
+15:24:03 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (1,1)
+
+15:24:05 [JavaFX Application Thread] INFO  gameLogger - Mouse Clicked On: (2,2)
+
+15:24:05 [JavaFX Application Thread] INFO  gameLogger - Test has won the game
