@@ -12,7 +12,7 @@ public class BoardGameApplication extends Application{
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("/fxml/start.fxml"));
         stage.setScene(new Scene(root));
-        stage.setTitle("Stones Tac-Toe");
+        stage.setTitle("Stone Game");
         stage.setResizable(false);
         stage.show();
     }

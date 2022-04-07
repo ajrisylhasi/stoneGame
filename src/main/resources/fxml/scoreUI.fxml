@@ -8,24 +8,6 @@
 <AnchorPane prefHeight="650.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="stoneGame.controllers.ScoreController">
    <children>
       <BorderPane prefHeight="650.0" prefWidth="600.0" styleClass="borderpane" stylesheets="@../css/ui.css">
-         <center>
-            <VBox alignment="TOP_CENTER" maxHeight="362.0" minHeight="276.0" prefHeight="276.0" prefWidth="600.0" stylesheets="@../css/ui.css" BorderPane.alignment="TOP_CENTER">
-               <children>
-                  <TableView fx:id="tableView" maxWidth="503.0" minWidth="150.0" prefHeight="395.0" prefWidth="503.0" stylesheets="@../css/ui.css">
-                    <columns>
-                      <TableColumn fx:id="firstPlayerCol" prefWidth="100.0" text="First Player" />
-                      <TableColumn fx:id="secondPlayerCol" minWidth="7.0" prefWidth="100.0" text="Second Player" />
-                        <TableColumn fx:id="winnerCol" prefWidth="100.0" text="Winner" />
-                        <TableColumn fx:id="dateCol" minWidth="100.0" prefWidth="90.0" text="Date" />
-                        <TableColumn fx:id="movesCol" minWidth="110.0" prefWidth="100.0" text="Moves" />
-                    </columns>
-                     <VBox.margin>
-                        <Insets top="15.0" />
-                     </VBox.margin>
-                  </TableView>
-               </children>
-            </VBox>
-         </center>
          <top>
             <HBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="TOP_CENTER">
                <children>
@@ -43,6 +25,24 @@
                </BorderPane.margin>
             </HBox>
          </top>
+         <center>
+            <VBox alignment="TOP_CENTER" maxHeight="180.0" minHeight="80.0" prefHeight="180.0" prefWidth="600.0" stylesheets="@../css/ui.css" BorderPane.alignment="TOP_CENTER">
+               <children>
+                  <TableView fx:id="tableView" maxWidth="503.0" minWidth="150.0" prefHeight="395.0" prefWidth="503.0" stylesheets="@../css/ui.css">
+                    <columns>
+                      <TableColumn fx:id="firstPlayerCol" prefWidth="100.0" text="First Player" />
+                      <TableColumn fx:id="secondPlayerCol" minWidth="7.0" prefWidth="100.0" text="Second Player" />
+                        <TableColumn fx:id="winnerCol" prefWidth="100.0" text="Winner" />
+                        <TableColumn fx:id="dateCol" minWidth="100.0" prefWidth="90.0" text="Date" />
+                        <TableColumn fx:id="movesCol" minWidth="110.0" prefWidth="100.0" text="Moves" />
+                    </columns>
+                     <VBox.margin>
+                        <Insets top="15.0" />
+                     </VBox.margin>
+                  </TableView>
+               </children>
+            </VBox>
+         </center>
          <bottom>
             <HBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
                <children>
